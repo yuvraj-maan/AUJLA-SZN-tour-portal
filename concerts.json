@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "city": "New Delhi",
+    "venue": "JLN Stadium, New Delhi",
+    "date": "15 Dec 2026",
+    "zones": {
+      "General": { "price": 2500 },
+      "Fan Pit": { "price": 5500 },
+      "VIP": { "price": 9000 }
+    }
+  },
+  {
+    "id": 2,
+    "city": "Chandigarh",
+    "venue": "Sector 34 Exhibition Ground",
+    "date": "22 Dec 2026",
+    "zones": {
+      "General": { "price": 2000 },
+      "Fan Pit": { "price": 4500 },
+      "VIP": { "price": 8000 }
+    }
+  },
+  {
+    "id": 3,
+    "city": "Mumbai",
+    "venue": "MMRDA Grounds, BKC",
+    "date": "29 Dec 2026",
+    "zones": {
+      "General": { "price": 3000 },
+      "Fan Pit": { "price": 6000 },
+      "VIP": { "price": 10000 }
+    }
+  }
+]
