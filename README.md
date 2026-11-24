@@ -1,11 +1,19 @@
-# 🎤 AUJLA SZN TOUR // Concert & Merch CLI Portal
+<div align="center">
 
-> **PVR-style pass booking, 38-track live setlist explorer, and official tour merch store—built in pure Python with zero external dependencies.**
+# 🎤 AUJLA-SZN-tour-portal 🔥
 
-![Python 3](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Zero Dependencies](https://img.shields.io/badge/Dependencies-Standard%20Library%20Only-2ea44f?style=for-the-badge)
-![Storage](https://img.shields.io/badge/Persistence-JSON-f59e0b?style=for-the-badge)
-![Setlist](https://img.shields.io/badge/Live%20Setlist-38%20Tracks-ec4899?style=for-the-badge)
+### *Official Terminal Concert Booking, 38-Track Setlist Explorer & Merch Store*
+
+[![Python 3](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Zero Dependencies](https://img.shields.io/badge/Dependencies-Standard%20Library-2ea44f?style=for-the-badge)](#%EF%B8%8F-built-with)
+[![Storage](https://img.shields.io/badge/Data-JSON-f59e0b?style=for-the-badge)](#-folder-layout)
+[![Setlist](https://img.shields.io/badge/Setlist-38%20Tracks-ec4899?style=for-the-badge)](#-what-it-does)
+
+> **PVR-style pass booking, live setlist browsing, and tour merch drops—running straight from your terminal in pure Python with zero external libraries.**
+
+**[Repo Link](https://github.com/yuvraj-maan/AUJLA-SZN-tour-portal)** • **[Run Guide](#-run-in-3-steps)** • **[Features](#-what-it-does)**
+
+</div>
 
 ---
 
@@ -23,7 +31,7 @@
 ## 📁 Folder Layout
 
 ```text
-aujla-szn-tour-portal/
+AUJLA-SZN-tour-portal/
 ├── capstone.py     # Main terminal application, booking flow & JSON persistence
 ├── concerts.json   # Tour cities, dates, venues & zone pricing
 ├── playlist.json   # 38-song concert setlist with project tags
@@ -39,8 +47,8 @@ aujla-szn-tour-portal/
 
 ### 1. Clone & Enter the Folder
 ```bash
-git clone <YOUR_GITHUB_REPO_URL>
-cd aujla-szn-tour-portal
+git clone [https://github.com/yuvraj-maan/AUJLA-SZN-tour-portal.git](https://github.com/yuvraj-maan/AUJLA-SZN-tour-portal.git)
+cd AUJLA-SZN-tour-portal
 ```
 
 ### 2. Start the App
