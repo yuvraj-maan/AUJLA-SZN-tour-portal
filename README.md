@@ -4,14 +4,9 @@
 
 ### *Official Terminal Concert Booking, 38-Track Setlist Explorer & Merch Store*
 
-[![Python 3](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Zero Dependencies](https://img.shields.io/badge/Dependencies-Standard%20Library-2ea44f?style=for-the-badge)](#%EF%B8%8F-built-with)
-[![Storage](https://img.shields.io/badge/Data-JSON-f59e0b?style=for-the-badge)](#-folder-layout)
-[![Setlist](https://img.shields.io/badge/Setlist-38%20Tracks-ec4899?style=for-the-badge)](#-what-it-does)
+> **PVR-style pass booking, live setlist browsing, and tour merch drops—running straight from your terminal.**
 
-> **PVR-style pass booking, live setlist browsing, and tour merch drops—running straight from your terminal in pure Python with zero external libraries.**
-
-**[Repo Link](https://github.com/yuvraj-maan/AUJLA-SZN-tour-portal)** • **[Run Guide](#-run-in-3-steps)** • **[Features](#-what-it-does)**
+**[GitHub Repository](https://github.com/yuvraj-maan/AUJLA-SZN-tour-portal)** • **[Run Guide](#-run-in-3-steps)** • **[Features](#-what-it-does)**
 
 </div>
 
@@ -47,7 +42,7 @@ AUJLA-SZN-tour-portal/
 
 ### 1. Clone & Enter the Folder
 ```bash
-git clone [https://github.com/yuvraj-maan/AUJLA-SZN-tour-portal.git](https://github.com/yuvraj-maan/AUJLA-SZN-tour-portal.git)
+git clone https://github.com/yuvraj-maan/AUJLA-SZN-tour-portal.git
 cd AUJLA-SZN-tour-portal
 ```
 
